@@ -9,5 +9,5 @@ DEPT: COMPUTER SCIENCE
 COLLEGE : KRISTU JAYANTI COLLEGE 
 
 PHONENO: 9980176320
-Roll no :8
+Roll no : 8
 ---------------------------------
